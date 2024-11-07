@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  wokwi_id:     413920370058172417       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "Garbage BCD"      # Project title
+  author:       "Nathan"      # Your name
+  discord:      "N8rBeans"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "It doesnt work"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -15,7 +15,7 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
+  ui[0]: "IN0"
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
