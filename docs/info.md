@@ -9,12 +9,17 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-it doesnt work
+The first 2 bits represent A, the next 2 bits represent B, and the last 4 bits represent C.
+
+A is multiplied by B and added to C. The output is shown on the 7 segment display, with the decimal representing "add 16".
 
 ## How to test
 
-you cannot test it
+- Set the switches to your desired numbers in binary
+- For example A = 11b = 3d, B = 11b = 3d, C = 1111b = 15d
+- The result will be shown on the 7 segment display
+- For example 3 * 3 + 15 = 24 (showing an 8 and decimal adds 16 (8+16 = 24))
 
 ## External hardware
 
-there is no external hardware
+There is no external hardware required or used.
