@@ -4,7 +4,7 @@ project:
   title:        "2 Bit Times 2 Bit Plus 4 Bit MAD and BCD to 7 Segment Display"      # Project title
   author:       "Nathan"      # Your name
   discord:      "N8rBeans"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Bit 1 = A1, Bit 2 = A0, Bit3 = B1, Bit 4 = B0, Bit 5 = C3, Bit 6 = C2, Bit 7 = C1, Bit 8 = C0"      # One line description of what your project does
+  description:  "Bit 1 = A1, Bit 2 = A0, Bit 3 = B1, Bit 4 = B0, Bit 5 = C3, Bit 6 = C2, Bit 7 = C1, Bit 8 = C0"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
